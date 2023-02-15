@@ -23,11 +23,17 @@
 #name{
     background-color: cadetblue;
     padding: 10px;
-    top: 1%;
-    left: 1050px;
+    top: 0%;
+    border-width: solid;
+    right: 10px;
     position: absolute;
+    align-items: stretch;
     /* border: 10px; */
      border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
     border-radius: 10% 40% 50% 20%;
+}
+.services{
+    font-size: 40px;
+    justify-content: center;
 }
