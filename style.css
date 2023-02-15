@@ -20,18 +20,24 @@
        color: rgb(10, 7, 7);
   }
   #name{
-      background-color: cadetblue;
-      padding: 10px;
-      top: 0%;
-      border-width: solid;
-      right: 10px;
-      position: absolute;
-      align-items: stretch;
-      /* border: 10px; */
-       border-top-right-radius: 30px;
+    background-color: cadetblue;
+    padding: 10px;
+    width: 80px;
+    max-width: 76px;
+    top: 0%;
+    border-width: solid;
+    right: 10px;
+    position: absolute;
+    align-items: stretch;
+    /* border: 10px; */
+    border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
-      border-radius: 10% 40% 50% 20%;
-  }
+    border-radius: 10% 40% 50% 20%;
+}
+user agent stylesheet
+div {
+    display: block;
+}
   .services{
       font-size: 40px;
       justify-content: center;
@@ -41,3 +47,15 @@
       font-size: 120px;
       
   }
+
+.unit{
+    background-color: darkgreen;
+    left: 1098px;
+    position: absolute;
+    top: 120%;
+    padding-left: 72px;
+    border-top-right-radius: 30px;
+    width: 7pc;
+    border-bottom-left-radius: 30px;
+    height: 145px;
+}
