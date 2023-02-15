@@ -1,4 +1,3 @@
-
 .box {
   position: absolute; 
  /* border-top-right-radius: 30px;
@@ -37,6 +36,6 @@
     font-size: 40px;
     justify-content: center;
 }
-strong{
+.font{
     font-size: 120px;
 }
