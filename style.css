@@ -1,3 +1,6 @@
+section{
+    
+}
 .box {
     position: absolute; 
    /* border-top-right-radius: 30px;
@@ -20,10 +23,10 @@
        color: rgb(10, 7, 7);
   }
   #name{
-    background-color: cadetblue;
+    background-color:rgb(37, 150, 190);
     padding: 10px;
     width: 80px;
-    max-width: 76px;
+    max-width: 76px;    
     top: 0%;
     border-width: solid;
     right: 10px;
@@ -34,19 +37,6 @@
     border-bottom-left-radius: 30px;
     border-radius: 10% 40% 50% 20%;
 }
-user agent stylesheet
-div {
-    display: block;
-}
-  .services{
-      font-size: 40px;
-      justify-content: center;
-      color:darkolivegreen ;
-  }
-  .font{
-      font-size: 120px;
-      
-  }
 
 .unit{
     background-color: darkgreen;
@@ -58,4 +48,9 @@ div {
     width: 7pc;
     border-bottom-left-radius: 30px;
     height: 145px;
+}
+div:nth-child(){
+    position: absolute;
+    top:0%;
+    left: 102px; 
 }
