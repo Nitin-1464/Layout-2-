@@ -4,11 +4,29 @@
    /* border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;*/
      top:0%;
-     left:120px;  background-color:darkgray;
+     left:0px;  background-color:darkgray;
      border: 1px solid;
      border-left: 5px solid rgb(3, 3, 3);
       border-top: 5px solid;
     padding: 10px;
     box-shadow: 2px 5px 20px rgba(9, 10, 10, 0.914) inset;
   }
-  
+  .main{
+    color: orangered;
+    right: 12px;
+    top: 0%;
+    
+  }
+  .box {
+    position: absolute; 
+   /* border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;*/
+     top:0%;
+     right:0px;  background-color:darkgray;
+     border: 1px solid;
+     border-left: 5px solid rgb(3, 3, 3);
+      border-top: 5px solid;
+    padding: 10px;
+    box-shadow: 2px 5px 20px rgba(9, 10, 10, 0.914) inset;
+  }
+ 
